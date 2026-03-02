@@ -1,6 +1,6 @@
 # Simple Student REST API (CRUD)
 
-Repositori ini berisi implementasi REST API sederhana untuk pengelolaan data mahasiswa menggunakan PHP Native dengan konsep OOP (Object Oriented Programming). Proyek ini dibuat sebagai bagian dari tugas praktikum mata kuliah Arsitektur dan Organisasi Komputer/Pemrograman Web.
+Repositori ini berisi implementasi REST API sederhana untuk pengelolaan data mahasiswa menggunakan PHP Native dengan konsep OOP (Object Oriented Programming). Proyek ini dibuat sebagai bagian dari tugas praktikum mata kuliah Pemrograman Web.
 
 ## 🚀 Fitur
 - **Create**: Menambahkan data mahasiswa baru.
@@ -9,7 +9,7 @@ Repositori ini berisi implementasi REST API sederhana untuk pengelolaan data mah
 - **Delete**: Menghapus data mahasiswa berdasarkan ID.
 
 ## 🛠️ Teknologi yang Digunakan
-- **Bahasa**: PHP 8.x
+- **Bahasa**: PHP 8.4
 - **Database**: MySQL (PDO Extension)
 - **Tools**: Laragon, Postman, Visual Studio Code
 
